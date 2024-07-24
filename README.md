@@ -1,2 +1,2 @@
 # DesafioPicpay
-Projeto desenvolvido para Desafio Picpay Simplificado, teste prático criado pela empresa para seleção dos candidatos para trabalhar na empresa
+O PicPay Simplificado é uma plataforma de pagamentos simplificada. Nela é possível depositar e realizar transferências de dinheiro entre usuários. Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles.
